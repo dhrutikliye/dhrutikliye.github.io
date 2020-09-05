@@ -1,3 +1,9 @@
 body {
-    background: #475d62 url(../../assets/img/star-sky.jpg);
+    background: #475d62 url(../../assets/img/love.jpg);
+    height: 1000px;
+    background-size: cover;
+}
+
+.card {
+    background-color: rgba(247, 28, 28, 0.411);
 }
